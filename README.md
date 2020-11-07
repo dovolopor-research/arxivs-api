@@ -1,6 +1,6 @@
 # arXivS API
 
-🎉 欢迎使用 [arXivS API](www.arxivs.com/doc)，请按照以下规则访问。
+🎉 欢迎使用 [arXivS API](https://www.arxivs.com/doc)，请按照以下规则访问。
 
 ## URL
 
